@@ -1,0 +1,74 @@
+.uslygi h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 67px;
+    font-size: 70px;
+    margin-bottom: 113px;
+}
+.uslygi-4 h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 93px;
+    font-size: 55px;
+    margin-bottom: 182px;
+}
+.r5{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-between;
+
+}
+.uslygi-3 h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -78px;
+    font-size: 56px;
+    margin-bottom: -2px;
+}
+.komanda{
+    background-image: url(https://i.pinimg.com/564x/89/ab/6c/89ab6cf035e8a29141749ba4eb62c4c9.jpg);
+}
+.uslygi-1 h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 131px;
+    font-size: 44px;
+    margin-bottom: 113px;
+}
+.carousel.pointer-event {
+    touch-action: pan-y;
+    position: relative;
+    top: 36px;
+}
+.kartoch {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-between;
+}
+.cardi{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-between;
+}
+body { background-color:#84c39b; font-family:sans-serif; color:#fff; text-align:center }
+code { display:inline-block; max-width:600px;  padding:80px 0 0; line-height:1.5; font-family:monospace; color:#ccc }
+
+.sc-gauge  { width:200px; height:200px; margin:200px auto; }
+.sc-background { position:relative; height:100px; margin-bottom:10px; background-color:#fff; border-radius:150px 150px 0 0; overflow:hidden; text-align:center; }
+.sc-mask { position:absolute; top:20px; right:20px; left:20px; height:80px; background-color:#97c18b; border-radius:150px 150px 0 0 }
+.sc-percentage { position:absolute; top:100px; left:-200%; width:400%; height:400%; margin-left:100px; background-color:#6d949e; }
+.sc-percentage { transform:rotate(158deg); transform-origin:top center; }
+.sc-min { float:left; }
+.sc-max { float:right; }
+.sc-value { position:absolute; top:25%; left:0; width:100%;  font-size:48px; font-weight:700 }
